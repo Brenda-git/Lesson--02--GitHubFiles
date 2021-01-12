@@ -1,0 +1,3016 @@
+Xsession: X session started for  at Tue Jan 12 19:30:13 UTC 2021
+localuser:brendabaileyfaa being added to access control list
+/home/brendabaileyfaa/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/brendabaileyfaa/Templates was removed, reassigning TEMPLATES to homedir
+/home/brendabaileyfaa/Public was removed, reassigning PUBLICSHARE to homedir
+/home/brendabaileyfaa/Documents was removed, reassigning DOCUMENTS to homedir
+/home/brendabaileyfaa/Music was removed, reassigning MUSIC to homedir
+/home/brendabaileyfaa/Pictures was removed, reassigning PICTURES to homedir
+/home/brendabaileyfaa/Videos was removed, reassigning VIDEOS to homedir
+/etc/xrdp/startwm.sh: 3: [: x: unexpected operator
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[3598]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[3598]: directory '/home/brendabaileyfaa/.gnupg' created
+gpg-agent[3598]: directory '/home/brendabaileyfaa/.gnupg/private-keys-v1.d' created
+
+(xfce4-session:3579): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:3579): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/brendabaileyfaa/.cache/sessions/xfce4-session-brendabaileyfaa:10, Does it exist? Permissions issue?
+gpg-agent[3599]: gpg-agent (GnuPG) 2.1.11 started
+
+** (xfce4-volumed:3620): WARNING **: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift><Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift><Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Alt><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Alt><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Shift><Alt><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:3620): WARNING **: Binding '<Ctrl><Shift><Alt><Super>XF86AudioMute' failed!
+
+(xfsettingsd:3618): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:3601): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+xfce4-panel-Message: Plugin "(null)-13" was not found and has been removed from the configuration
+xfce4-panel-Message: Plugin "(null)-14" was not found and has been removed from the configuration
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694239610
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+[3906:3906:0112/193220.866475:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3948:1:0112/193234.572736:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[3948:1:0112/193234.573265:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[3948:1:0112/193234.602097:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[3948:1:0112/193234.605641:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[3948:1:0112/193234.613265:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[3948:1:0112/193234.613653:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+[3906:3906:0112/193313.138265:ERROR:context_group.cc(151)] ContextResult::kFatalFailure: WebGL2 blacklisted
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 24576
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+[4035:1:0112/193632.228694:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[4035:1:0112/193632.229229:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[4035:1:0112/193818.311900:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[4035:1:0112/193818.312431:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -684198383
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -684323302
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805219536
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325602796
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694344225
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -676761311
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 8192
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -691340781
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -684198383
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -684323302
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805219536
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325602796
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694344225
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -676761311
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 8192
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -691340781
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 24576
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfce4-terminal:6488): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -694840004
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170088
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718820928
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805170112
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824824
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -711356252
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824816
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824432
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -1325600267
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 874667008
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -805232320
+
+(xfdesktop:3609): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -718824704
